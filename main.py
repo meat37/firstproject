@@ -1,3 +1,3 @@
 #! python3
 
-pфывфывrint('фывфывфыHello World')
+print('Hello World')
